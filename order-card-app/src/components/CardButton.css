@@ -1,0 +1,30 @@
+.card-button {
+  border: none;
+  padding: 15px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.pay-button {
+  background-color: #110ecf;
+  color: #fff;
+  margin-bottom: 22px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.pay-button:hover {
+  background-color: #4e4cf1;
+  color: #f4bcff;
+}
+
+.cancel-button {
+  background-color: #e0e0e0;
+  color: #000;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.cancel-button:hover {
+  background-color: #d4d7ff;
+  color: #a032aa;
+}

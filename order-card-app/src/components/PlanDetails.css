@@ -1,0 +1,35 @@
+.plan-container {
+  background-color: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 8px;
+  margin-bottom: 20px;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.plan-details {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.plan-title {
+  font-size: 18px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.plan-price {
+  font-size: 19px;
+  font-weight: 700;
+  margin: 10px 0;
+  margin-left: 12px;
+}
+
+.plan-link {
+  color: #0066ff;
+  text-decoration: underline;
+  margin-left: 75px;
+
+}
